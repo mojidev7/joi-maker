@@ -1,2 +1,2 @@
 # joi-maker
-crate joi from json data
+create Joi from JSON data
