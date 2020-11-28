@@ -1,0 +1,23 @@
+{
+  "name": "joi-maker",
+  "version": "0.0.1",
+  "description": "makes joi from json data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mojidev7/joi-maker.git"
+  },
+  "keywords": [
+    "Joi-maker",
+    "joi-generator"
+  ],
+  "author": "Mojtaba Hossein Pour",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mojidev7/joi-maker/issues"
+  },
+  "homepage": "https://github.com/mojidev7/joi-maker#readme"
+}
